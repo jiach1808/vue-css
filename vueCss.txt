@@ -1,0 +1,8 @@
+//统一浏览器 css 标准 
+normalize.css
+1.  安装
+cnpm install --save normalize.css
+
+2.使用main.js引入
+import 'normalize.css/normalize.css'
+ 
